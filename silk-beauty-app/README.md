@@ -30,7 +30,7 @@ npx eas-cli build -p android --profile internal --non-interactive --wait
 
 For CI, set `EXPO_TOKEN` and run the same build command without `eas login`. The `internal` profile in `eas.json` sets `android.buildType` to `apk`, so EAS produces a signed `.apk` instead of the default Play Store `.aab`.
 
-This repository also includes `.github/workflows/eas-android-apk.yml`. Add `EXPO_TOKEN` as a GitHub Actions secret, then run the `Build Android APK with EAS` workflow manually or push to `main`.
+This repository also includes `.github/workflows/eas-android-apk.yml`. Add `EXPO_TOKEN` as a GitHub Actions secret, then run the `Build Android APK with EAS` workflow manually or push to `main`. The workflow writes the signed APK URL to the GitHub Actions summary and uploads the raw EAS build metadata as an artifact.
 
 After EAS finishes, copy the APK URL into the website deployment as `NEXT_PUBLIC_ANDROID_APK_URL`, or download the artifact and host it at `/apk/silk-beauty-salon.apk`.
 

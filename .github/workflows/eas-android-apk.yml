@@ -34,4 +34,35 @@ jobs:
         run: npm ci
 
       - name: Build signed internal APK
-        run: eas build -p android --profile internal --non-interactive --wait
+        id: eas-build
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          eas build -p android --profile internal --non-interactive --wait --json > eas-build-result.json
+
+          node <<'NODE'
+          const fs = require('node:fs');
+
+          const result = JSON.parse(fs.readFileSync('eas-build-result.json', 'utf8'));
+          const builds = Array.isArray(result) ? result : [result];
+          const androidBuild =
+            builds.find((build) => String(build.platform).toLowerCase() === 'android') ?? builds[0];
+          const apkUrl = androidBuild?.artifacts?.buildUrl;
+
+          if (!apkUrl || !/\.apk(?:$|\?)/.test(apkUrl)) {
+            throw new Error(`EAS build did not return an APK artifact URL. Received: ${apkUrl ?? 'none'}`);
+          }
+
+          fs.appendFileSync(process.env.GITHUB_OUTPUT, `apk_url=${apkUrl}\n`);
+          fs.appendFileSync(
+            process.env.GITHUB_STEP_SUMMARY,
+            `## Signed Android APK\n\n[Download APK](${apkUrl})\n\nSet the website deployment variable \`NEXT_PUBLIC_ANDROID_APK_URL\` to this URL, or host the file at \`/apk/silk-beauty-salon.apk\`.\n`
+          );
+          NODE
+
+      - name: Upload EAS build metadata
+        uses: actions/upload-artifact@v4
+        with:
+          name: eas-android-apk-build-result
+          path: silk-beauty-app/eas-build-result.json
