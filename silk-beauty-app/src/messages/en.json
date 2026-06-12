@@ -1,0 +1,252 @@
+{
+  "nav": {
+    "home": "Home",
+    "treatments": "Treatments",
+    "specialists": "Specialists",
+    "about": "About",
+    "contact": "Contact",
+    "bookNow": "Book Now",
+    "book": "BOOK",
+    "now": "now",
+    "international": "International"
+  },
+  "hero": {
+    "welcome": "Welcome to Silk Beauty Salon",
+    "tagline": "It is your time to shine",
+    "badge": "Luxury Beauty · Batumi, Georgia",
+    "heading": "Where Beauty Meets Mastery",
+    "sub": "World-class aesthetic medicine, lash artistry, hair colour, and nail design — by internationally certified specialists.",
+    "cta": "Book Appointment",
+    "whatsapp": "WhatsApp Us",
+    "slide1Headline": "Luxury Aesthetic Treatments",
+    "slide1Subline": "Premium injectables, fillers, and skincare by certified medical specialists.",
+    "slide2Headline": "Expert Lash & Brow Artistry",
+    "slide2Subline": "Volume lashes, lash lifts, and precision brow sculpting.",
+    "slide3Headline": "Premium Hair Styling",
+    "slide3Subline": "From precision cuts to luxury colouring and styling.",
+    "slide4Headline": "Nail Art & Design",
+    "slide4Subline": "Gel, acrylic, and bespoke nail artistry.",
+    "ctaButton": "Book Now"
+  },
+  "heroSlider": {
+    "slide1": "Luxury Aesthetic Treatments",
+    "slide2": "Expert Lash & Brow Artistry",
+    "slide3": "Premium Hair Styling",
+    "slide4": "Nail Art & Design"
+  },
+  "pageHero": {
+    "about": {
+      "title": "Our Story",
+      "subtitle": "Born in Batumi, Built for the World"
+    },
+    "treatments": {
+      "title": "Our Services",
+      "subtitle": "Premium Beauty Treatments"
+    },
+    "specialists": {
+      "title": "Meet the Team",
+      "subtitle": "World-Class Experts"
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "subtitle": "Book Your Appointment"
+    }
+  },
+  "about": {
+    "heading": "Born in Batumi, Built for the World",
+    "intro1": "Silk Beauty Salon was founded with one vision: to bring world-class aesthetic medicine and luxury beauty services to the heart of Batumi, Georgia.",
+    "intro2": "Our team of internationally certified specialists — trained across Europe, the Middle East, and beyond — believes that beauty is not a luxury. It's a form of self-expression, and everyone deserves the best.",
+    "cta": "Book a Consultation",
+    "valuesTitle": "What We Stand For",
+    "value1Title": "Medical Excellence",
+    "value1Desc": "All aesthetic treatments performed by certified medical specialists using EU-approved products.",
+    "value2Title": "Client First",
+    "value2Desc": "Every appointment is tailored to your unique features, goals, and skin type. We never rush.",
+    "value3Title": "International Standards",
+    "value3Desc": "Our team trained in Paris, Istanbul, Milan, and Tel Aviv. Global expertise, Batumi roots.",
+    "value4Title": "Clean Beauty",
+    "value4Desc": "We use cruelty-free, dermatologically tested products. No compromises on quality.",
+    "stats": {
+      "clients": "Happy Clients",
+      "specialists": "Specialists",
+      "treatments": "Treatments"
+    }
+  },
+  "specialists": {
+    "title": "Meet Our Specialists",
+    "subtitle": "International experts, each certified in their field and passionate about delivering outstanding results.",
+    "followInstagram": "Follow on Instagram"
+  },
+  "footer": {
+    "tagline": "World-class aesthetic medicine and luxury beauty services in the heart of Batumi, Georgia.",
+    "findSpecialist": "Find a Specialist",
+    "termsOfUse": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "cookieNotice": "Cookie Notice",
+    "rights": "All rights reserved.",
+    "services": {
+      "title": "Services",
+      "injectables": "Injectables & Fillers",
+      "lashes": "Lash Extensions",
+      "hair": "Hair Styling",
+      "nails": "Nail Design",
+      "skin": "Skincare"
+    },
+    "studio": {
+      "title": "The Studio",
+      "about": "Our Story",
+      "team": "Meet the Team",
+      "specialists": "Find a Specialist",
+      "international": "International Clients",
+      "careers": "Careers"
+    },
+    "newsletter": {
+      "title": "Beauty Intelligence",
+      "subtitle": "Delivered monthly to your inbox.",
+      "placeholder": "Your email address",
+      "submit": "Subscribe",
+      "privacy": "No spam. Unsubscribe anytime."
+    },
+    "connect": {
+      "title": "Connect",
+      "address": "28 Rustaveli Avenue, Batumi 6010, Georgia",
+      "hours": {
+        "weekdays": "Mon–Fri 10:00–20:00",
+        "weekend": "Sat–Sun 10:00–18:00"
+      }
+    },
+    "maps": {
+      "viewOnGoogle": "View on Google Maps"
+    },
+    "certifications": {
+      "title": "Certified Partners"
+    },
+    "bottom": {
+      "copyright": "© {year} Silk Beauty Salon. All rights reserved.",
+      "terms": "Terms of Use",
+      "privacy": "Privacy Policy",
+      "cookies": "Cookie Notice"
+    }
+  },
+  "contact": {
+    "title": "Book Your Appointment",
+    "name": "Full Name",
+    "phone": "Phone / WhatsApp",
+    "email": "Email",
+    "treatment": "Treatment",
+    "date": "Preferred Date",
+    "message": "Message",
+    "submit": "Confirm Booking Request",
+    "success": "Request Sent!",
+    "successSub": "We'll confirm your appointment via WhatsApp within 1 hour.",
+    "selectTreatment": "Select a treatment",
+    "address": "Address",
+    "phoneLabel": "Phone & WhatsApp",
+    "emailLabel": "Email",
+    "hours": "Hours"
+  },
+  "chat": {
+    "greeting": "Hi! I'm your Silk Beauty Advisor. Ask me about treatments, prices, or book an appointment.",
+    "placeholder": "Ask about a treatment…",
+    "title": "Silk Beauty Advisor",
+    "subtitle": "AI · Ask me anything"
+  },
+  "testimonials": {
+    "badge": "Client Love",
+    "title": "What Our Clients Say",
+    "subtitle": "Real reviews from real clients around the world",
+    "allReviews": "All Reviews",
+    "videoTestimonials": "Video Testimonials",
+    "showOriginal": "Show Original",
+    "showTranslation": "Show Translation",
+    "leaveReviewText": "Had a great experience? Share it with others!",
+    "leaveReview": "Leave a Review",
+    "stats": {
+      "clients": "Happy Clients",
+      "countries": "Countries",
+      "rating": "Average Rating",
+      "reviews": "Reviews"
+    }
+  },
+  "international": {
+    "hero": {
+      "badge": "Medical Beauty Tourism",
+      "title": "World-Class Aesthetic Care at Georgian Prices",
+      "savings": "Save up to 60% on Premium Treatments",
+      "subtitle": "Combine your beauty treatments with a Black Sea getaway. International patients welcome.",
+      "ctaCalculator": "Calculate Your Savings"
+    },
+    "whatsapp": {
+      "button": "Chat on WhatsApp",
+      "defaultMessage": "Hi, I'm interested in booking treatments as an international patient. Can you help me plan my visit?"
+    },
+    "calculator": {
+      "title": "Price Comparison Calculator",
+      "subtitle": "Compare treatment costs between your country and Georgia",
+      "yourCountry": "Your Country",
+      "treatment": "Treatment",
+      "localPrice": "Local Price",
+      "youSave": "You Save",
+      "less": "less",
+      "competitive": "Competitive pricing"
+    },
+    "planner": {
+      "title": "Beauty Week Planner",
+      "subtitle": "Plan your multi-day treatment schedule",
+      "day": "Day",
+      "empty": "No treatments planned",
+      "totalCost": "Total Cost",
+      "totalTime": "Total Time"
+    },
+    "logistics": {
+      "title": "Travel Logistics",
+      "subtitle": "Everything you need to plan your beauty trip",
+      "visa": {
+        "title": "Visa-Free Entry",
+        "subtitle": "Most nationalities can stay up to 1 year"
+      },
+      "airports": {
+        "title": "Airports",
+        "subtitle": "Easy access from Europe & Middle East"
+      },
+      "hotels": {
+        "title": "Recommended Hotels",
+        "subtitle": "Walking distance to our clinic"
+      }
+    },
+    "testimonials": {
+      "title": "International Client Stories",
+      "subtitle": "Reviews from patients around the world",
+      "allCountries": "All Countries"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Everything you need to know about visiting us",
+      "safety": {
+        "question": "Are your products and procedures safe?",
+        "answer": "Yes, we use only EU-certified and FDA-approved products. All procedures are performed by licensed medical professionals."
+      },
+      "advance": {
+        "question": "How far in advance should I book?",
+        "answer": "We recommend booking 2-3 weeks in advance for international patients to allow time for treatment planning and travel coordination."
+      },
+      "combine": {
+        "question": "Can I combine multiple treatments in one visit?",
+        "answer": "Absolutely! Many patients plan a 'beauty week' with multiple treatments. We help you schedule them safely with proper recovery time."
+      },
+      "language": {
+        "question": "Do you speak English?",
+        "answer": "Yes, our staff speaks English, Russian, Georgian, and Turkish. We also provide translation services if needed."
+      },
+      "payment": {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept cash (GEL, USD, EUR), credit cards, and bank transfers. Payment plans are available for larger treatment packages."
+      },
+      "refund": {
+        "question": "What is your cancellation policy?",
+        "answer": "We offer full refunds for cancellations made 48 hours in advance. For last-minute changes, we can reschedule your appointment."
+      },
+      "moreQuestions": "Have more questions?"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+silk-beauty-app/node_modules/
+silk-beauty-app/.expo/
+silk-beauty-app/dist/
+silk-beauty-app/web-build/
+silk-beauty-app/build-artifacts/
+silk-beauty-app/android/
+silk-beauty-app/ios/
+
+*.tsbuildinfo
+*.log

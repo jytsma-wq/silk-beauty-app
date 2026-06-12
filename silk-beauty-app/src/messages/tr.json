@@ -1,0 +1,252 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "treatments": "Tedaviler",
+    "specialists": "Uzmanlar",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "bookNow": "Randevu Al",
+    "book": "RANDEVU",
+    "now": "şimdi",
+    "international": "Uluslararası"
+  },
+  "hero": {
+    "welcome": "Silk Beauty Salon'a Hoş Geldiniz",
+    "tagline": "Parlama zamanınız geldi!",
+    "badge": "Lüks Güzellik · Batum",
+    "heading": "Güzelliğin Ustalıkla Buluştuğu Yer",
+    "sub": "Sertifikalı uzmanlarca sunulan dünya standartlarında estetik tıp.",
+    "cta": "Randevu Al",
+    "whatsapp": "WhatsApp",
+    "slide1Headline": "Lüks Estetik Tedaviler",
+    "slide1Subline": "Sertifikalı uzmanlarca sunulan premium enjeksiyon, dolgu ve cilt bakımı.",
+    "slide2Headline": "Uzman Kirpik ve Kaş Sanatı",
+    "slide2Subline": "Hacimli kirpikler, kirpik lifting ve hassas kaş şekillendirme.",
+    "slide3Headline": "Premium Saç Stili",
+    "slide3Subline": "Hassas kesimlerden lüks boyama ve şekillendirmeye.",
+    "slide4Headline": "Tırnak Sanatı ve Tasarım",
+    "slide4Subline": "Jel, akrilik ve özel tırnak sanatı.",
+    "ctaButton": "Hemen Randevu Al"
+  },
+  "heroSlider": {
+    "slide1": "Lüks Estetik Tedaviler",
+    "slide2": "Uzman Kirpik ve Kaş Sanatı",
+    "slide3": "Premium Saç Stili",
+    "slide4": "Tırnak Sanatı ve Tasarım"
+  },
+  "pageHero": {
+    "about": {
+      "title": "Hikayemiz",
+      "subtitle": "Batum'da Doğdu, Dünya İçin Yaratıldı"
+    },
+    "treatments": {
+      "title": "Hizmetlerimiz",
+      "subtitle": "Premium Güzellik Tedavileri"
+    },
+    "specialists": {
+      "title": "Ekiple Tanışın",
+      "subtitle": "Dünya Standartlarında Uzmanlar"
+    },
+    "contact": {
+      "title": "Bize Ulaşın",
+      "subtitle": "Randevunuzu Alın"
+    }
+  },
+  "about": {
+    "heading": "Batum'da Doğdu, Dünya İçin Yaratıldı",
+    "intro1": "Silk Beauty Salon tek bir vizyonla kuruldu: Dünya standartlarında estetik tıp ve lüks güzellik hizmetlerini Batum, Gürcistan'ın kalbine getirmek.",
+    "intro2": "Avrupa, Orta Doğu ve ötesinde eğitim almış uluslararası sertifikalı uzmanlardan oluşan ekibimiz, güzelliğin bir lüks olmadığına inanıyor. Bu bir kendini ifade etme biçimidir ve herkes en iyiyi hak eder.",
+    "cta": "Danışmanlık Randevusu Al",
+    "valuesTitle": "Değerlerimiz",
+    "value1Title": "Tıbbi Mükemmellik",
+    "value1Desc": "Tüm estetik tedaviler, AB onaylı ürünler kullanılarak sertifikalı tıp uzmanları tarafından gerçekleştirilir.",
+    "value2Title": "Müşteri Öncelikli",
+    "value2Desc": "Her randevu benzersiz özelliklerinize, hedeflerinize ve cilt tipinize göre özelleştirilir. Asla acele etmeyiz.",
+    "value3Title": "Uluslararası Standartlar",
+    "value3Desc": "Ekibimiz Paris, İstanbul, Milano ve Tel Aviv'de eğitim aldı. Küresel uzmanlık, Batum kökleri.",
+    "value4Title": "Temiz Güzellik",
+    "value4Desc": "Hayvan deneyi yapılmayan, dermatolojik olarak test edilmiş ürünler kullanıyoruz. Kaliteden ödün yok.",
+    "stats": {
+      "clients": "Mutlu Müşteri",
+      "specialists": "Uzman",
+      "treatments": "Tedavi"
+    }
+  },
+  "specialists": {
+    "title": "Uzmanlarımızla Tanışın",
+    "subtitle": "Her biri alanında sertifikalı ve olağanüstü sonuçlar sunma tutkusuyla uluslararası uzmanlar.",
+    "followInstagram": "Instagram'da Takip Et"
+  },
+  "footer": {
+    "tagline": "Batum'un kalbinde dünya standartlarında güzellik hizmetleri.",
+    "findSpecialist": "Uzman Bul",
+    "termsOfUse": "Kullanım Koşulları",
+    "privacy": "Gizlilik Politikası",
+    "cookieNotice": "Çerez Bildirimi",
+    "rights": "Tüm hakları saklıdır.",
+    "services": {
+      "title": "Hizmetler",
+      "injectables": "Enjeksiyon ve Dolgu",
+      "lashes": "Kirpik Uzatma",
+      "hair": "Saç Stili",
+      "nails": "Tırnak Tasarımı",
+      "skin": "Cilt Bakımı"
+    },
+    "studio": {
+      "title": "Stüdyo",
+      "about": "Hikayemiz",
+      "team": "Ekiple Tanışın",
+      "specialists": "Uzman Bul",
+      "international": "Uluslararası Müşteriler",
+      "careers": "Kariyer"
+    },
+    "newsletter": {
+      "title": "Güzellik İstihbaratı",
+      "subtitle": "Aylık olarak gelen kutunuza iletilir.",
+      "placeholder": "E-posta adresiniz",
+      "submit": "Abone Ol",
+      "privacy": "Spam yok. İstediğiniz zaman abonelikten çıkın."
+    },
+    "connect": {
+      "title": "İletişim",
+      "address": "Rustaveli Caddesi 28, Batum 6010, Gürcistan",
+      "hours": {
+        "weekdays": "Pzt–Cum 10:00–20:00",
+        "weekend": "Cmt–Paz 10:00–18:00"
+      }
+    },
+    "maps": {
+      "viewOnGoogle": "Google Maps'te Görüntüle"
+    },
+    "certifications": {
+      "title": "Sertifikalı Ortaklar"
+    },
+    "bottom": {
+      "copyright": "© {year} Silk Beauty Salon. Tüm hakları saklıdır.",
+      "terms": "Kullanım Koşulları",
+      "privacy": "Gizlilik Politikası",
+      "cookies": "Çerez Bildirimi"
+    }
+  },
+  "contact": {
+    "title": "Randevunuzu Alın",
+    "name": "Ad Soyad",
+    "phone": "Telefon / WhatsApp",
+    "email": "E-posta",
+    "treatment": "Tedavi",
+    "date": "Tercih Edilen Tarih",
+    "message": "Mesaj",
+    "submit": "Randevu Talebini Onayla",
+    "success": "Talep Gönderildi!",
+    "successSub": "Randevunuzu 1 saat içinde WhatsApp ile onaylayacağız.",
+    "selectTreatment": "Bir tedavi seçin",
+    "address": "Adres",
+    "phoneLabel": "Telefon ve WhatsApp",
+    "emailLabel": "E-posta",
+    "hours": "Çalışma Saatleri"
+  },
+  "chat": {
+    "greeting": "Merhaba! Ben Silk Beauty Danışmanınızım.",
+    "placeholder": "Soru sorun...",
+    "title": "Silk Beauty Advisor",
+    "subtitle": "AI · Bana her şeyi sorun"
+  },
+  "testimonials": {
+    "badge": "Müşteriler",
+    "title": "Müşterilerimiz Ne Diyor",
+    "subtitle": "Dünyanın dört bir yanından gerçek müşteri yorumları",
+    "allReviews": "Tüm Yorumlar",
+    "videoTestimonials": "Video Yorumları",
+    "showOriginal": "Orijinal",
+    "showTranslation": "Çeviri",
+    "leaveReviewText": "Harika bir deneyim mi yaşadınız? Başkalarıyla paylaşın!",
+    "leaveReview": "Yorum Bırak",
+    "stats": {
+      "clients": "Mutlu Müşteri",
+      "countries": "Ülke",
+      "rating": "Ortalama Puan",
+      "reviews": "Yorum"
+    }
+  },
+  "international": {
+    "hero": {
+      "badge": "Tıbbi Turizm",
+      "title": "Dünya Standartlarında Estetik Bakım Gürcistan Fiyatlarıyla",
+      "savings": "Premium Tedavilerde %60'a Varan Tasarruf",
+      "subtitle": "Güzellik tedavilerinizi Karadeniz tatiliyle birleştirin. Uluslararası hastalarımızı ağırlıyoruz.",
+      "ctaCalculator": "Tasarrufunuzu Hesaplayın"
+    },
+    "whatsapp": {
+      "button": "WhatsApp'tan Yaz",
+      "defaultMessage": "Merhaba, uluslararası hasta olarak tedavi rezervasyonu yapmak istiyorum. Ziyaretimi planlamamda yardımcı olabilir misiniz?"
+    },
+    "calculator": {
+      "title": "Fiyat Karşılaştırma Hesaplayıcısı",
+      "subtitle": "Tedavi maliyetlerini ülkeniz ve Gürcistan arasında karşılaştırın",
+      "yourCountry": "Ülkeniz",
+      "treatment": "Tedavi",
+      "localPrice": "Yerel Fiyat",
+      "youSave": "Tasarruf",
+      "less": "daha az",
+      "competitive": "Rekabetçi fiyat"
+    },
+    "planner": {
+      "title": "Güzellik Haftası Planlayıcısı",
+      "subtitle": "Çok günlük tedavi programınızı planlayın",
+      "day": "Gün",
+      "empty": "Planlanmış tedavi yok",
+      "totalCost": "Toplam Maliyet",
+      "totalTime": "Toplam Süre"
+    },
+    "logistics": {
+      "title": "Seyahat Lojistiği",
+      "subtitle": "Ziyaretinizi planlamak için bilmeniz gereken her şey",
+      "visa": {
+        "title": "Vizesiz Giriş",
+        "subtitle": "Çoğu uyruk 1 yıla kadar kalabilir"
+      },
+      "airports": {
+        "title": "Havalimanları",
+        "subtitle": "Avrupa ve Orta Doğu'dan kolay erişim"
+      },
+      "hotels": {
+        "title": "Önerilen Oteller",
+        "subtitle": "Kliniğimize yürüme mesafesinde"
+      }
+    },
+    "testimonials": {
+      "title": "Uluslararası Müşteri Hikayeleri",
+      "subtitle": "Dünyanın dört bir yanından hasta yorumları",
+      "allCountries": "Tüm Ülkeler"
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "subtitle": "Ziyaretiniz hakkında bilmeniz gereken her şey",
+      "safety": {
+        "question": "Ürün ve uygulamalarınız güvenli mi?",
+        "answer": "Evet, yalnızca AB sertifikalı ve FDA onaylı ürünler kullanıyoruz. Tüm işlemler lisanslı tıp uzmanları tarafından yapılır."
+      },
+      "advance": {
+        "question": "Ne kadar önceden rezervasyon yapmalıyım?",
+        "answer": "Uluslararası hastalar için tedavi planlaması ve seyahat koordinasyonu için 2-3 hafta önceden rezervasyon önerilir."
+      },
+      "combine": {
+        "question": "Bir ziyarette birden fazla tedavi birleştirebilir miyim?",
+        "answer": "Kesinlikle! Birçok hasta birden fazla tedavi ile 'güzellik haftası' planlar. Uygun iyileşme süresiyle güvenli bir şekilde planlamanıza yardımcı oluruz."
+      },
+      "language": {
+        "question": "İngilizce biliyor musunuz?",
+        "answer": "Evet, ekibimiz İngilizce, Rusça, Gürcüce ve Türkçe konuşuyor. Gerekirse çeviri hizmetleri de sunuyoruz."
+      },
+      "payment": {
+        "question": "Hangi ödeme yöntemlerini kabul ediyorsunuz?",
+        "answer": "Nakit (GEL, USD, EUR), kredi kartları ve banka havalelerini kabul ediyoruz. Büyük tedavi paketleri için ödeme planları mevcuttur."
+      },
+      "refund": {
+        "question": "İptal politikanız nedir?",
+        "answer": "48 saat önceden yapılan iptallerde tam para iadesi sunuyoruz. Son dakika değişikliklerinde randevunuzu yeniden planlayabiliriz."
+      },
+      "moreQuestions": "Başka sorularınız var mı?"
+    }
+  }
+}
