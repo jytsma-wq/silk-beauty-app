@@ -19,7 +19,7 @@ export const salonInfo = {
   description: 'World-class aesthetic medicine, lash extensions, microblading, hair, nails & skincare in Batumi, Georgia.',
   address: '28 Rustaveli Avenue, Batumi 6010, Georgia',
   phone: '+995 599 123 456',
-  email: 'info@silkbeautybatumi.ge',
+  email: 'info@silkbeautysalon.online',
   instagram: 'https://instagram.com/silkbeautybatumi',
   instagramHandle: '@silkbeautybatumi',
   facebook: 'https://facebook.com/silkbeautybatumi',
@@ -27,7 +27,7 @@ export const salonInfo = {
   tiktok: 'https://tiktok.com/@silkbeautybatumi',
   tiktokHandle: '@silkbeautybatumi',
   whatsapp: '+995599123456',
-  siteUrl: 'https://silkbeautybatumi.ge',
+  siteUrl: 'https://silkbeautysalon.online',
   coordinates: {
     lat: 41.6468,
     lng: 41.6367,
