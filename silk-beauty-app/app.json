@@ -13,7 +13,7 @@
     "android": {
       "package": "ge.silkbeauty.app",
       "adaptiveIcon": {
-        "backgroundColor": "#0D9488",
+        "backgroundColor": "#FAF7EF",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
