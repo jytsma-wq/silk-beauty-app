@@ -6,6 +6,7 @@
   "build": {
     "internal": {
       "distribution": "internal",
+      "autoIncrement": true,
       "android": {
         "buildType": "apk"
       },
