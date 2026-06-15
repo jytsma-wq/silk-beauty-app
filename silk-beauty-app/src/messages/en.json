@@ -109,10 +109,10 @@
     },
     "connect": {
       "title": "Connect",
-      "address": "28 Rustaveli Avenue, Batumi 6010, Georgia",
+      "address": "Zurab Gorgiladze 63, Batumi 6000, Georgia",
       "hours": {
-        "weekdays": "Mon–Fri 10:00–20:00",
-        "weekend": "Sat–Sun 10:00–18:00"
+        "weekdays": "Mon–Sat 10:00–22:00",
+        "weekend": "Sunday 11:00–22:00"
       }
     },
     "maps": {

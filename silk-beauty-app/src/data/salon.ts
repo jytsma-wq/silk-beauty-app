@@ -16,26 +16,26 @@ export const localeNames: Record<Locale, string> = {
 
 export const salonInfo = {
   name: 'Silk Beauty Salon',
-  description: 'World-class aesthetic medicine, lash extensions, microblading, hair, nails & skincare in Batumi, Georgia.',
-  address: '28 Rustaveli Avenue, Batumi 6010, Georgia',
-  phone: '+995 599 123 456',
+  description:
+    "Batumi's premier beauty salon on Zurab Gorgiladze Street. We bring together expert practitioners, cutting-edge treatments & luxury care to enhance your natural beauty with precision & confidence.",
+  address: 'Zurab Gorgiladze 63, Batumi 6000, Georgia',
+  phone: '+995 577 34 57 67',
   email: 'info@silkbeautysalon.online',
-  instagram: 'https://instagram.com/silkbeautybatumi',
-  instagramHandle: '@silkbeautybatumi',
-  facebook: 'https://facebook.com/silkbeautybatumi',
+  instagram: 'https://www.instagram.com/silkbeauty_batumi/',
+  instagramHandle: '@silkbeauty_batumi',
+  facebook: 'https://www.facebook.com/silkbeautybatumi/',
   facebookHandle: '@silkbeautybatumi',
-  tiktok: 'https://tiktok.com/@silkbeautybatumi',
+  tiktok: 'https://www.tiktok.com/@silkbeautybatumi',
   tiktokHandle: '@silkbeautybatumi',
-  whatsapp: '+995599123456',
+  whatsapp: '+995 577 28 68 55',
   siteUrl: 'https://silkbeautysalon.online',
   coordinates: {
     lat: 41.6468,
     lng: 41.6367,
   },
   hours: [
-    { day: 'Mon - Thu', hours: '10:00 - 20:00' },
-    { day: 'Fri - Sat', hours: '10:00 - 21:00' },
-    { day: 'Sunday', hours: '11:00 - 19:00' },
+    { day: 'Mon - Sat', hours: '10:00 - 22:00' },
+    { day: 'Sunday', hours: '11:00 - 22:00' },
   ] satisfies SalonHour[],
 };
 

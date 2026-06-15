@@ -109,10 +109,10 @@
     },
     "connect": {
       "title": "İletişim",
-      "address": "Rustaveli Caddesi 28, Batum 6010, Gürcistan",
+      "address": "Zurab Gorgiladze Cad. 63, Batumi 6000, Gürcistan",
       "hours": {
-        "weekdays": "Pzt–Cum 10:00–20:00",
-        "weekend": "Cmt–Paz 10:00–18:00"
+        "weekdays": "Pzt–Cmt 10:00–22:00",
+        "weekend": "Pazar 11:00–22:00"
       }
     },
     "maps": {
